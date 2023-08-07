@@ -1,0 +1,4 @@
+venv
+.pytest_cache
+.mypy_cache
+git remote add origin https://github.com/gabflag/custom_banner_for_server.git
