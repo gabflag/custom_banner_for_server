@@ -10,3 +10,7 @@ Test done on https://www.jdoodle.com/test-bash-shell-script-online/
 
 Read the content of this link if you have questions on how to download and use the code available here: https://github.com/gabflag/readme
 
+# Notes:
+
+  On this site you will find other amazing ways to do something like this:
+  https://www.geeksforgeeks.org/python-ascii-art-using-pyfiglet-module/
